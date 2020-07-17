@@ -10,8 +10,12 @@
 .navbar-style
 {
     box-shadow: 0 5px 10px #e0115f;
+    text-transform: uppercase;
 }
 .icon-bar
 {
     background: black;
+}
+li a {
+    color: #333;
 }
