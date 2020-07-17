@@ -29,3 +29,9 @@ font-family: 'Lora', serif;
 src: url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
 
 }
+
+.bg-1 { 
+    background-color: #55aac4;
+    color: #000000; 
+}
+  
