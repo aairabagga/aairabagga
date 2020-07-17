@@ -35,15 +35,15 @@ src: url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
     color: #000000; 
 }
 
-.img-circle{
+.circle-img{
    
-        min-width: 100%;
-        min-height: 100%;
-        width: auto;
-        height: auto;
-        position: absolute;
-        left: 50%;
-        top: 50%;
-       
-      
+        width: 250px;
+        height: 250px;
+        overflow: hidden;
+}
+
+.circle-img img {
+    height: 100%;
+    transform: translateX(-50%);
+    margin-left: 50%;
 }
