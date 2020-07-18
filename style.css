@@ -26,6 +26,7 @@ li a {
 
 }
 
+@import url(//db.onlinewebfonts.com/c/1ae9b9868bd3121e932225b140a839a5?family=Verdana);
 @font-face{
 
     font-family:'Verdana';
@@ -34,9 +35,9 @@ li a {
 
 .circle-img{
    
-        width: 250px;
-        height: 250px;
-        overflow: hidden;
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
 
 }
 
