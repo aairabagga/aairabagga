@@ -5,6 +5,8 @@
 .header
 {
     height: 110vh;
+    background-color: #55aac4
+
 }
 
 .navbar-style
@@ -18,9 +20,13 @@
 .icon-bar
 {
     background: black;
+    background-color: #55aac4
+
 }
 li a {
     color: #333;
+    background-color: #55aac4
+
 }
 
 @font-face{
