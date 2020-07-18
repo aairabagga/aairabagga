@@ -28,9 +28,8 @@ li a {
 
 @font-face{
 
-font-family: 'Lora', serif;
-src: url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
-
+    font-family:'Verdana';
+    src: url("//db.onlinewebfonts.com/t/1ae9b9868bd3121e932225b140a839a5.eot");
 }
 
 .circle-img{
@@ -51,6 +50,18 @@ src: url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
 .bg-1 { 
     background-color: #791552;
     color: #ffffff; 
+    font-family: Verdana;
 }
+
+.bg-2 {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: Verdana;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top:10px;
+    margin-bottom:500px;
+    padding-bottom: 100px;
+  }
 
 .border { border-width: 5px; border-color: white; border-style: solid; } 
