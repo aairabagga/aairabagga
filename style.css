@@ -63,6 +63,12 @@ li a {
     margin-top:10px;
     margin-bottom:500px;
     padding-bottom: 100px;
+    border-bottom: 1px solid;
   }
+  .border-bottom{
+    border-bottom: #A8A8A8 dotted 1px;
+    padding-bottom: 20px !important;
+    margin-bottom: 30px !important;
+}
 
 .border { border-width: 5px; border-color: white; border-style: solid; } 
