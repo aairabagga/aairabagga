@@ -18,7 +18,7 @@
 .icon-bar
 {
     background: black;
-    background-color: #55aac4
+    background-color: #621f77
 
 }
 li a {
@@ -38,7 +38,6 @@ src: url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
         width: 250px;
         height: 250px;
         overflow: hidden;
-        background-color: #55aac4
 
 }
 
@@ -49,3 +48,10 @@ src: url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
     background-color: #55aac4
 
 }
+
+.bg-1 { 
+    background-color: #5d55c4;
+    color: #ffffff; 
+}
+
+.border { border-width: 5px; border-color: white; border-style: solid; } 
