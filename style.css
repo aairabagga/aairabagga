@@ -65,12 +65,34 @@ li a {
     padding-bottom: 100px;
   }
 
-  .bg-card1 {
-    background-color: #e48fd8;
-    color: #000000;
+  .bg-cardabt1 {
+    background-color: #faa6ef;
+    color: #ffffff;
     font-family: Verdana;
     text-align: center;
   }
+
+  .bg-cardabt2 {
+    background-color: #ee81df;
+    color: #ffffff;
+    font-family: Verdana;
+    text-align: center;
+  }
+
+  .bg-cardabt3 {
+    background-color: #ee4ed9;
+    color: #ffffff;
+    font-family: Verdana;
+    text-align: center;
+  }
+  
+  .bg-cardabt3 {
+    background-color: #ce2db8;
+    color: #ffffff;
+    font-family: Verdana;
+    text-align: center;
+  }
+
 
   .border-bottom{
     border-bottom: #A8A8A8 dotted 1px;
