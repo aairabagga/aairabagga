@@ -13,7 +13,7 @@
     text-transform: uppercase;
     padding: 14px 16px;
     font-size: 17px;
-    color: #55aac4
+    background-color: #55aac4
 }
 .icon-bar
 {
@@ -28,11 +28,6 @@ li a {
 font-family: 'Lora', serif;
 src: url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
 
-}
-
-.bg-1 { 
-    background-color: #55aac4;
-    color: #000000; 
 }
 
 .circle-img{
