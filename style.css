@@ -10,7 +10,7 @@
 
 .navbar-style
 {
-    box-shadow: 0 5px 10px #e0115f;
+    box-shadow: 0 5px 10px #3636a1;
     text-transform: uppercase;
     padding: 14px 16px;
     font-size: 17px;
@@ -45,7 +45,6 @@ src: url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
     height: 100%;
     transform: translateX(-50%);
     margin-left: 50%;
-    background-color: #55aac4
 
 }
 
