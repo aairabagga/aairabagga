@@ -5,7 +5,6 @@
 .header
 {
     height: 110vh;
-    background-color: #55aac4
 
 }
 
@@ -15,7 +14,6 @@
     text-transform: uppercase;
     padding: 14px 16px;
     font-size: 17px;
-    background-color: #55aac4
 }
 .icon-bar
 {
@@ -25,7 +23,6 @@
 }
 li a {
     color: #333;
-    background-color: #55aac4
 
 }
 
@@ -41,10 +38,14 @@ src: url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
         width: 250px;
         height: 250px;
         overflow: hidden;
+        background-color: #55aac4
+
 }
 
 .circle-img img {
     height: 100%;
     transform: translateX(-50%);
     margin-left: 50%;
+    background-color: #55aac4
+
 }
