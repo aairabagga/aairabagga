@@ -49,7 +49,7 @@ li a {
 }
 
 .bg-1 { 
-    background-color: #791552;
+    background-image: url(../img/homebackground.png);
     color: #ffffff; 
     font-family: Verdana;
 }
