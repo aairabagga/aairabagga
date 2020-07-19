@@ -100,4 +100,8 @@ li a {
     margin-bottom: 30px !important;
 }
 
+.embed-responsive .card-img-top {
+    object-fit: cover;
+}
+
 .border { border-width: 5px; border-color: white; border-style: solid; } 
