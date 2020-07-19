@@ -82,11 +82,10 @@ li a {
 .embed-responsive{
     object-fit: cover;
 }
-.img-resize{
-    width:256px;
-    height: 256px;
+.card-img-top {
+    width: 100%;
+    height: 15vw;
     object-fit: cover;
-    overflow: hidden;
 }
 
 .border { border-width: 5px; border-color: white; border-style: solid; } 
