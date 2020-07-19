@@ -82,9 +82,11 @@ li a {
 .embed-responsive{
     object-fit: cover;
 }
-img.resize{
+.img-resize{
     width:256px;
     height: 256px;
+    object-fit: cover;
+    overflow: hidden;
 }
 
 .border { border-width: 5px; border-color: white; border-style: solid; } 
