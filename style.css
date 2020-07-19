@@ -88,4 +88,29 @@ li a {
     object-fit: cover;
 }
 
+.projectImage{
+    width: 30em;
+    margin-top: 0em;
+}
+
+.projectImageSmall {
+  width: 15em;
+  margin-top: 0em;
+}
+
+.projectImageLarge {
+  width: 25em;
+  margin-top: 0em;
+}
+
+.projectImageDiv{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.marginTopPic {
+    margin-top: 20px;
+  }
+  
+
 .border { border-width: 5px; border-color: white; border-style: solid; } 
