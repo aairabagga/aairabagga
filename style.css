@@ -55,7 +55,7 @@ li a {
 }
 
 .bg-1 { 
-    background-color: black;
+    background-color: rgb(9, 56, 87);
     color: #ffffff; 
     font-family: Verdana;
 }
@@ -72,7 +72,7 @@ li a {
   }
 
   .bg-cardabt1 {
-    background-color: #ffd1dc;
+    background-color: #b9cff8;
     color: #000000;
     font-family: Verdana;
     text-align: center;
@@ -124,4 +124,4 @@ li a {
   }
   
 
-.border { border-width: 5px; border-color: white; border-style: solid; } 
+.border { border-width: 10px; border-color: white; border-style: solid; } 
