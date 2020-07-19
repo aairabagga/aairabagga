@@ -1,0 +1,4 @@
+"problemMatcher": {
+    "base" : "$gcc",
+    "fileLocation" : "absolute"
+}
