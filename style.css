@@ -87,7 +87,18 @@ li a {
     height: 15vw;
     object-fit: cover;
 }
+.projectTitle{
+    font-size: 1.6em;
+}
 
+.project{
+    text-align: left !important;
+    max-width: 55em;
+    margin-bottom: 35px;
+    padding: 15px;
+    /*border: black 1px dotted;*/
+    line-height: 1.8;
+}
 .projectImage{
     width: 30em;
     margin-top: 0em;
