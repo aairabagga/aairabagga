@@ -69,30 +69,13 @@ li a {
     padding-bottom: 100px;
   }
 
-  .bg-cardabt1 {
-    background-color: #ffdaf4;
-    color: #000000;
-    text-align: center;
-  }
   .bg-cardabt2 {
     background-color: #add8e6;
     color: #000000;
     font-family: Verdana;
     text-align: center;
   }
-  .bg-cardabt3 {
-    background-color: #e6deff;
-    color: #000000;
-    font-family: Verdana;
-    text-align: center;
-  }
-  .bg-cardabt4 {
-    background-color: #ddf9d9;
-    color: #000000;
-    font-family: Verdana;
-    text-align: center;
-  }
-
+ 
 
 .embed-responsive{
     object-fit: cover;
@@ -147,3 +130,5 @@ li a {
     border-width: 10px;
     border-color: #add8e6;
 }
+
+.border { border-width: 5px; border-color: black; border-style: solid; } 
