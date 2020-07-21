@@ -32,11 +32,8 @@ li a {
 
 }
 
-@import url(//db.onlinewebfonts.com/c/1ae9b9868bd3121e932225b140a839a5?family=Verdana);
-@font-face{
-
-    font-family:'Verdana';
-    src: url("//db.onlinewebfonts.com/t/1ae9b9868bd3121e932225b140a839a5.eot");
+.writing{
+    font-family: 'Zilla Slab', serif;
 }
 
 .circle-img{
@@ -60,6 +57,7 @@ li a {
     font-family: Verdana;
 }
 
+
 .bg-2 {
     background-color: #ffffff;
     color: #000000;
@@ -72,7 +70,24 @@ li a {
   }
 
   .bg-cardabt1 {
-    background-color: #b9cff8;
+    background-color: #ffdaf4;
+    color: #000000;
+    text-align: center;
+  }
+  .bg-cardabt2 {
+    background-color: #add8e6;
+    color: #000000;
+    font-family: Verdana;
+    text-align: center;
+  }
+  .bg-cardabt3 {
+    background-color: #e6deff;
+    color: #000000;
+    font-family: Verdana;
+    text-align: center;
+  }
+  .bg-cardabt4 {
+    background-color: #ddf9d9;
     color: #000000;
     font-family: Verdana;
     text-align: center;
@@ -123,5 +138,12 @@ li a {
     margin-top: 20px;
   }
   
+.prof-img {
+    height: 276px;
+    width: 276px;
+}
 
-.border { border-width: 10px; border-color: white; border-style: solid; } 
+.border-primary{
+    border-width: 10px;
+    border-color: #add8e6;
+}
